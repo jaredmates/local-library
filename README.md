@@ -1,4 +1,4 @@
-Local Library
+# Local Library
 
 A basic Express website developed as a tutorial example on the Mozilla Developer Network.
 
